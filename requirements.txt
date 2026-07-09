@@ -1,0 +1,6 @@
+google-genai
+requests
+beautifulsoup4
+markdownify
+pydantic
+python-dotenv
